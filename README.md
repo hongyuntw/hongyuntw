@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hellooo 👋
 
 <!--
 **hongyuntw/hongyuntw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-### Hello 
 ![Visitor Count](https://komarev.com/ghpvc/?username=hongyuntw&color=green&label=Profile+Viewers+since+2020/01/01)
 
 <img  src="https://github-readme-stats.vercel.app/api?username=hongyuntw&count_private=true&hide_border=true&include_all_commits=true&show_icons=true&card_width=300" width="48%" align="right" >
